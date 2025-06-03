@@ -63,6 +63,8 @@ This tutorial targets researchers, students, and practitioners interested in dee
 <img align="left" src="figs/kunyi.jpeg" width="80" style="margin-right: 20px;">**[Kun Yi](https://github.com/aikunyi)** is affiliated with the State Information Center and specializes in deep learning with a focus on big data analytics and
 frequency-based methods for time series. His current research explores the integration of multimodal large language models (LLMs) into time series analysis to advance macroeconomic governance.
 
+
+
 <img align="left" src="figs/qizhang.jpg" width="80" style="margin-right: 20px;">**[Qi Zhang](https://sites.google.com/view/qizhang-bit-uts)** is currently a associate professor at Tongji University. His research focuses on time series analysis, frequency-domain neural network, and general AI. Qi Zhang has published 60+ top-rank papers. He has also delivered 4 tutorials on data mining, recommender systems. Additionally, he has experience as a teaching assistant, teaching courses on Machine Learning and the Frontier of Computer Science at Tongji University.
 
 <img align="left" src="figs/weifan.jpg" width="80" style="margin-right: 20px;">**[Wei Fan](https://weifan.site)** is currently working as a Postdoctoral Researcher in the Medical Sciences Division at the University of Oxford, UK. His research focuses on data-centric AI, time series modeling, and spatial-temporal data mining. He is also dedicated to applying these methods to solve real-world data science applications, such as healthcare, transportation, and energy. 
