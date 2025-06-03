@@ -78,9 +78,9 @@ frequency-based methods for time series. His current research explores the integ
 
 
 ## Related Tutorials
-  > - [[Foundation Models for Time Series Analysis: A Tutorial and Survey, AAAI 2025]](https://aaai.org/conference/aaai/aaai-25/tutorial-and-lab-list)
-  > - [[Foundation Models for Time Series Analysis: A Tutorial and Survey, KDD 2024]](https://wenhaomin.github.io/FM4TS.github.io/)
-  > - [[Robust Time Series Analysis and Applications: An Industrial Perspective, KDD 2022]](https://qingsongedu.github.io/timeseries-tutorial-kdd-2022/)
+  > - [Qingsong Wen, Yuxuan Liang, Dongjin Song, Shirui Pan, Ming Jin. Foundation Models for Time Series Analysis: A Tutorial and Survey. In AAAI 2025.](https://aaai.org/conference/aaai/aaai-25/tutorial-and-lab-list)
+  > - [Qingsong Wen, Yuxuan Liang, Dongjin Song, Shirui Pan. Foundation Models for Time Series Analysis: A Tutorial and Survey. In SIGKDD 2024.](https://wenhaomin.github.io/FM4TS.github.io/)
+  > - [Qingsong Wen, Linxiao Yang, Tian Zhou, Liang Sun, Robust Time Series Analysis and Applications: An Industrial Perspective. In SIGKDD 2022.](https://qingsongedu.github.io/timeseries-tutorial-kdd-2022/)
 
 
 <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=b6BS2zVobvt0L0oFSuPX_FQATkqZcU2tDTPgGEiwG3s&cl=ffffff&w=a"></script>
