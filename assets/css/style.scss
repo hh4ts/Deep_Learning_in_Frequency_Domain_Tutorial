@@ -19,3 +19,20 @@ header, section.page-header {
   width: 95% !important;
 }
 
+
+footer {
+  background-color: #ffffff !important;  /* 整块区域背景变白 */
+  color: #222222 !important;              /* 字体深灰 */
+  text-align: center;
+  padding: 24px 0;
+  font-size: 14px;
+  border-top: 1px solid #ddd;
+}
+
+/* 去掉 footer 内容区域居中限制，让背景铺满 */
+footer .wrapper,
+footer .inner {
+  max-width: none !important;
+  width: 100% !important;
+  margin: 0 auto !important;
+}
