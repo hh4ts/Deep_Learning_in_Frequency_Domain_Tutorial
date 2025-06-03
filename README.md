@@ -1,9 +1,3 @@
----
-layout: default
-title: "Deep Learning in the Frequency Domain: Advances, Challenges, and Applications for Time Series Analysis"
----
-
-
 ## Tutorial Abstract
 
 Time series analysis stands as a focal point within the data mining community, serving as a cornerstone for extracting valuable insights crucial to a myriad of real-world applications. Recently, the classic frequency analysis methods (e.g., Discrete Fourier Transform, Discrete Wavelet Transform, Discrete Cosine Transform, etc) have been increasingly integrated into machine learning and deep learning, significantly enhancing the accuracy and efficiency of time series analysis.
