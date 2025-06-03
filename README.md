@@ -13,18 +13,18 @@ This tutorial targets researchers, students, and practitioners interested in dee
 
 ### Tutorial Outline
 
-### 1. Introduction and Motivation [10 mins] 
+### 1. Introduction and Motivation [10 min] 
 
   > - Overview of the growing importance of time series analysis
   > - Key Issues and Challenges
   > - Motivation for Frequency Domain Analysis
 
-### 2. Foundations of Frequency Transformation [15 mins]
+### 2. Foundations of Frequency Transformation [15 min]
 
   > - Review of Discrete Fourier Transform (DFT), Discrete Cosine Transform (DCT), etc
   > - Theoretical Foundations of Frequency-Domain Methods in Time Series Analysis
 
-### 3. Deep Learning Approaches in the Frequency Domain [70 mins]
+### 3. Deep Learning Approaches in the Frequency Domain [70 min]
 
   > - Feature Engineering Approaches: Seasonal/periodic feature extraction, multi-scale wavelet coefficients
   > - Compression and Noise Filtering: Leveraging low-frequency components to remove high-frequency noise
@@ -34,28 +34,28 @@ This tutorial targets researchers, students, and practitioners interested in dee
 ### (Break - 20 min)
 
 
-### 4. Applications across Time Series Tasks [20 mins]
+### 4. Applications across Time Series Tasks [20 min]
 
   > - Time Series Forecasting
   > - Anomaly Detection and Imputation
   > - Time Series Classification
 
 
-### 5. Advantages and Limitations [15 mins]
+### 5. Advantages and Limitations [15 min]
 
   > - Loss of fine-grained temporal detail and phase information
   > - Complexity of multi-resolution feature fusion
   > - Integrating time-frequency transforms for both local and global patterns
 
 
-### 6. Challenges and Future Directions [20 mins]
+### 6. Challenges and Future Directions [20 min]
 
   > - Novel Orthogonal Transform Methods (Partial Fourier, Fractional Fourier, orthogonal polynomial expansions)
   > - Joint Learning in Time and Frequency: Hybrid frameworks combining time-domain and frequency-domain encoders
   > - Scaling Up: Handling high-dimensional, large-scale time series using multi-GPU or distributed processing
 
 
-### Q&A [10 mins]
+### (Q&A - 10 min)
 
 
 ## Short Bio of Tutors
