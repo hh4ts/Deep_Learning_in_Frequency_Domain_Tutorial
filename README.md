@@ -84,5 +84,10 @@ frequency-based methods for time series. His current research explores the integ
 
 
 
-<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=b6BS2zVobvt0L0oFSuPX_FQATkqZcU2tDTPgGEiwG3s&cl=ffffff&w=a"></script>
+<div style="max-width: 500px; margin: 20px auto;">
+  <script type="text/javascript" id="clustrmaps" 
+          src="//clustrmaps.com/map_v2.js?d=b6BS2zVobvt0L0oFSuPX_FQATkqZcU2tDTPgGEiwG3s&cl=ffffff&w=a">
+  </script>
+</div>
+
 
