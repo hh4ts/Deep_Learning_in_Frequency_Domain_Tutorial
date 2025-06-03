@@ -19,6 +19,19 @@ header, section.page-header {
   width: 95% !important;
 }
 
+
 footer {
-  display: none !important;
+  background-color: #ffffff !important;   /* 背景改为白色 */
+  padding: 20px 0;
+  color: #444444 !important;              /* 字体改为深灰色，适配白底 */
+  font-size: 14px;
+  text-align: center;
+  border-top: 1px solid #ddd;             /* 可选：加一条浅灰分隔线 */
+}
+
+
+footer .wrapper, footer .inner {
+  max-width: 900px;
+  width: 90%;
+  margin: 0 auto;
 }
