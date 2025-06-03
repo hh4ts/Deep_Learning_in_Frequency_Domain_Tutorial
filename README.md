@@ -62,16 +62,19 @@ This tutorial targets researchers, students, and practitioners interested in dee
 
 <img align="left" src="figs/kunyi.jpeg" width="80" style="margin-right: 20px;">**[Kun Yi](https://github.com/aikunyi)** is affiliated with the State Information Center and specializes in deep learning with a focus on big data analytics and
 frequency-based methods for time series. His current research explores the integration of multimodal large language models (LLMs) into time series analysis to advance macroeconomic governance.
-
-
+<br clear="left">
 
 <img align="left" src="figs/qizhang.jpg" width="80" style="margin-right: 20px;">**[Qi Zhang](https://sites.google.com/view/qizhang-bit-uts)** is currently a associate professor at Tongji University. His research focuses on time series analysis, frequency-domain neural network, and general AI. Qi Zhang has published 60+ top-rank papers. He has also delivered 4 tutorials on data mining, recommender systems. Additionally, he has experience as a teaching assistant, teaching courses on Machine Learning and the Frontier of Computer Science at Tongji University.
+<br clear="left">
 
 <img align="left" src="figs/weifan.jpg" width="80" style="margin-right: 20px;">**[Wei Fan](https://weifan.site)** is currently working as a Postdoctoral Researcher in the Medical Sciences Division at the University of Oxford, UK. His research focuses on data-centric AI, time series modeling, and spatial-temporal data mining. He is also dedicated to applying these methods to solve real-world data science applications, such as healthcare, transportation, and energy. 
+<br clear="left">
 
 <img align="left" src="figs/qingsongwen.png" width="80" style="margin-right: 20px;">**[Qingsong Wen](qingsongedu@gmail.com)** is currently the Head of AI & Chief Scientist at Squirrel Ai Learning. Before that, he worked at Alibaba, Qualcomm, Marvell, etc., and received his M.S. and Ph.D. degrees in Electrical and Computer Engineering from Georgia Institute of Technology,  USA. His research interests include machine learning, data mining, and signal processing, especially AI for Time Series (AI4TS), LLM & AI Agent. Currently, he serves as Co-Chair of Workshop on AI for Time Series (AI4TS @ KDD, ICDM, SDM, AAAI, IJCAI). He also serves as Area Chair of NeurIPS, ICML, KDD, IJCAI, etc.
+<br clear="left">
 
 <img align="left" src="figs/huixiong.png" width="80" style="margin-right: 20px;">**[Hui Xiong]( https://www.hkust-gz.edu.cn/people/hui-xiong/)** is a Chair Professor at Hong Kong University of Science and Technology (Guangzhou) and Associate Vice President for Knowledge Transfer. He have had the privilege of contributing extensively to the fields of artificial intelligence, machine learning, and data science, and he is recognized as an IEEE Fellow, AAAS Fellow, AAAI Fellow and ACM Distinguished Scientist for his work in advancing knowledge in these domains. Before his time at the Hong Kong University of Science and Technology, he was a distinguished professor at Rutgers, the State University of New Jersey, from 2007 to 2021. His accolades include the AAAI-2021 Best Paper Award, the 2018 Ram Charan Management Practice Award, as the Grand Prix winner from the Harvard Business Review, the 2017 IEEE ICDM Outstanding Service Award, the 2016 RBS Dean’s Research Professorship, the 2009 Rutgers University Board of Trustees Research Fellowship for Scholarly Excellence, the ICDM-2011 Best Research Paper Award.
+<br clear="left">
 
 
 ## Related Tutorials
