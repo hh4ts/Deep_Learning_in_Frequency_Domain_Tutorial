@@ -9,7 +9,6 @@
   }
 
 
-/* ✅ 扩展内容区域宽度 */
 .wrapper, .inner {
   max-width: 900px !important;
   width: 95% !important;
@@ -18,4 +17,8 @@
 header, section.page-header {
   max-width: 900px !important;
   width: 95% !important;
+}
+
+footer {
+  display: none !important;
 }
