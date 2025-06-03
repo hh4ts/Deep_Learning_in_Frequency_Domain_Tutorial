@@ -21,16 +21,16 @@ header, section.page-header {
 
 
 footer {
-  font-size: 12px !important;     /* 字体稍小 */
-  line-height: 1.4 !important;    /* 行距更紧凑 */
-  padding: 10px 0 !important;     /* 上下间距更窄 */
+  font-size: 14px !important; 
+  line-height: 1.4 !important;
+  padding: 10px 0 !important; 
 }
 
 /* 可选：调整内容区域最大宽度 */
 footer .wrapper,
 footer .inner {
-  max-width: 800px !important;    /* 稍微收窄内容区域 */
-  width: 90% !important;
+  max-width: 900px !important;
+  width: 95% !important;
   margin: 0 auto;
 }
 
