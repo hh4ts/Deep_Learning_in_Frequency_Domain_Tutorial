@@ -21,17 +21,22 @@ header, section.page-header {
 
 
 footer {
-  background-color: #ffffff !important;  
-  color: #333333 !important;               
+  all: unset; /* 清除 slate 所有默认样式 */
+  display: block;
+  background-color: #ffffff !important;  /* 全白背景 */
+  color: #333333 !important;             /* 深灰字体 */
   padding: 24px 0;
   font-size: 14px;
   text-align: center;
   border-top: 1px solid #ddd;
+  width: 100%;
 }
 
 footer .wrapper, footer .inner {
-  max-width: 100% !important; 
+  all: unset;
+  display: block;
   width: 100% !important;
+  max-width: 100% !important;
   margin: 0 auto;
 }
 
