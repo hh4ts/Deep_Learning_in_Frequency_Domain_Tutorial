@@ -21,17 +21,17 @@ header, section.page-header {
 
 
 footer {
-  background-color: #ffffff !important;   /* 背景改为白色 */
-  padding: 20px 0;
-  color: #444444 !important;              /* 字体改为深灰色，适配白底 */
+  background-color: #ffffff !important;  
+  color: #333333 !important;               
+  padding: 24px 0;
   font-size: 14px;
   text-align: center;
-  border-top: 1px solid #ddd;             /* 可选：加一条浅灰分隔线 */
+  border-top: 1px solid #ddd;
 }
-
 
 footer .wrapper, footer .inner {
-  max-width: 900px;
-  width: 90%;
+  max-width: 100% !important; 
+  width: 100% !important;
   margin: 0 auto;
 }
+
