@@ -21,18 +21,16 @@ header, section.page-header {
 
 
 footer {
-  background-color: #ffffff !important;  /* 整块区域背景变白 */
-  color: #222222 !important;              /* 字体深灰 */
-  text-align: center;
-  padding: 24px 0;
-  font-size: 14px;
-  border-top: 1px solid #ddd;
+  font-size: 12px !important;     /* 字体稍小 */
+  line-height: 1.4 !important;    /* 行距更紧凑 */
+  padding: 10px 0 !important;     /* 上下间距更窄 */
 }
 
-/* 去掉 footer 内容区域居中限制，让背景铺满 */
+/* 可选：调整内容区域最大宽度 */
 footer .wrapper,
 footer .inner {
-  max-width: none !important;
-  width: 100% !important;
-  margin: 0 auto !important;
+  max-width: 800px !important;    /* 稍微收窄内容区域 */
+  width: 90% !important;
+  margin: 0 auto;
 }
+
